@@ -9,6 +9,7 @@ Permainan ini proyek dirancang oleh kami yang merupakan game kejar-kejaran yang 
 ## _Sistem Permainan_
 #### a) Pergerakan antar piksel
 Permainan ini bersifat 2 dimensi, di mana pemain mengendalikan karakter Robber menggunakan tombol arah atas, bawah, kiri, dan kanan untuk menggerakkan posisi karakter. Pemain harus menghindari rintangan (obstacle) dan Polisi, karena jika terkena, poin akan berkurang. Selain itu, pemain juga dapat mengumpulkan objek-objek seperti harta untuk menambah poin. Pemindahan posisi karakter menjadi kunci dalam bertahan dan meraih poin di sepanjang permainan.
+
 ![alt text](https://github.com/Michs09/Permainan-Cops-Robbers/blob/main/Image_Readme/Posisi_Pemain1.png?raw=true)
 
 #### b)	Sistem penjumlahan poin
