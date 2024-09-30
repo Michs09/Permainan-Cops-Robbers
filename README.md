@@ -1,9 +1,9 @@
 # Permainan Python: Cops and Robber
 
-![alt text](https://github.com/Michs09/Permainan-Cops-Robbers/blob/main/Image_Readme/Permainan.png?raw=true)
 ## _Informasi_
 
 Permainan ini proyek dirancang oleh kami yang merupakan game kejar-kejaran yang dikembangkan menggunakan bahasa pemrograman Python dengan modul Pygame. Pemain berperan sebagai seorang Robber yang harus menghindari kejaran Polisi yang dikendalikan oleh komputer. Di sepanjang permainan, pemain akan menghadapi berbagai tantangan berupa rintangan (obstacle) yang harus dihindari, serta objek-objek yang dapat dikumpulkan untuk mendapatkan tambahan poin. Seiring dengan bertambahnya poin, tingkat kesulitan permainan akan meningkat dengan mempercepat alur permainan, sehingga memberikan tantangan yang dinamis dan menghindari permainan yang monoton.
+![alt text](https://github.com/Michs09/Permainan-Cops-Robbers/blob/main/Image_Readme/Permainan.png?raw=true)
 
 ## _Sistem Permainan_
 #### a) Pergerakan antar piksel
