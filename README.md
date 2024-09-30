@@ -14,6 +14,7 @@ Permainan ini bersifat 2 dimensi, di mana pemain mengendalikan karakter Robber m
 
 #### b)	Sistem penjumlahan poin
 Sistem penjumlahan poin didasarkan pada jumlah poin yang berhasil dikumpulkan oleh pemain. Pemain dapat menambah poin dengan mengambil objek harta sebanyak-banyaknya. Namun, terdapat juga rintangan (obstacle) yang dapat mengurangi poin pemain. Selain itu, jika pemain tertangkap oleh Polisi, permainan akan berakhir. Tujuan utama adalah mengumpulkan poin sebanyak mungkin sambil menghindari rintangan dan Polisi.
+
 ![alt text](https://github.com/Michs09/Permainan-Cops-Robbers/blob/main/Image_Readme/rog2.png?raw=true)
 
 #### c)	Percepatan Alur Permainan
@@ -21,5 +22,5 @@ Selain itu, sistem permainan ini dirancang dengan pengaturan kecepatan alur, seh
 
 
 ### Module & Library Requirements:
-Python 3.10.5
-Pygame 2.1.2
+- Python 3.10.5
+- Pygame 2.1.2
